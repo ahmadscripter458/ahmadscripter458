@@ -182,6 +182,6 @@ local Tab = Window:NewTab("More games")
 
 local Section = Tab:NewSection("slemani broken is the best script")
 
-Section:NewButton("Click", "ButtonInfo", function()loadstring(game:HttpGet('https://pastefy.app/6V8LH70v/raw'))()
+Section:NewButton("Click", "ButtonInfo", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/ahmadscripter458/ahmadscripter458/refs/heads/main/Slemani%20broken%202'))()
     print("Clicked")
 end)
