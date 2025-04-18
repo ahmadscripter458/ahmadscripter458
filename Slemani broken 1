@@ -1,0 +1,187 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+local Window = Library.CreateLib("slemani broken", "BloodTheme")
+
+
+local Tab = Window:NewTab("Mm2")
+
+local Section = Tab:NewSection("slemani broken is the best script")
+
+Section:NewButton("(Mm2 ghost hub) (1 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Murder%20Mystery"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(mm2 Change size spray) (2 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://scriptblox.com/raw/Murder-Mystery-2-Change-Spray-Size-11083"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(mm2 owl hub) (3 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Owl-hub-8067"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(mm2 for ipad) (4 script)", "ButtonInfo", function()loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
+    print("Clicked")
+end)
+
+Section:NewButton("(mm2) (5 script)", "ButtonInfo", function()loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Drifter0507/GUIS/main/MURDER%20MYSTERY%202", true))()
+    print("Clicked")
+end)
+
+
+local Tab = Window:NewTab("Brookhaven RP🏡")
+
+local Section = Tab:NewSection("slemani broken is the best script")
+
+Section:NewButton("(Brookhaven Icehub) (1 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMae17/NewIceHub/main/Brookhaven"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(brookhaven metahub) (2 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/NocturneMoDz/BROOKHAVEN-GUI-/main/METAB", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("(brookhaven Redz Hub) (3 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/REDzHUB/main/REDzHUB"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(brookhaven Large Hub!) (4 script)", "ButtonInfo", function() loadstring(game:HttpGet("https://gist.githubusercontent.com/TurkOyuncu99/a8ef23a468af4ec5686fc6104066b501/raw/4dcc185733e69c358c32359fab1b4c27e578b4ee/ttt", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("(brookhaven) (5 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/pormansutility/PormansBrookhaven/main/BrookhavenV1Keyless"))()
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("Build a boat for treasure ⛵")
+
+local Section = Tab:NewSection("Kurdish Game script")
+
+Section:NewButton("Auto win", "ButtonInfo", function()loadstring(game:HttpGet("https://scriptblox.com/raw/BBT-utoFrm_740"))()
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("Prison life")
+
+local Section = Tab:NewSection("slemani broken is the best script")
+
+Section:NewButton("(Prison life) (1 script) ", "ButtonInfo", function()loadstring(game:HttpGet("https://pastebin.com/raw/GzeWWPWN"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Prison life Orion libary!) (2 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaohubPrisonLife"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Prison life Kavo UI libary) (3 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/GwnStefano/NexusHub/main/Main", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Prison life Fe bypass Gui) (4 script)", "ButtonInfo", function()--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\103\48\48\108\88\112\108\111\105\116\101\114\47\103\48\48\108\88\112\108\111\105\116\101\114\47\109\97\105\110\47\70\101\37\50\48\98\121\112\97\115\115\34\44\32\116\114\117\101\41\41\40\41\10")() 
+    print("Clicked")
+end)
+
+Section:NewButton("(Prison Life Tiger admin) (5 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/dalloc2/Roblox/main/TigerAdmin.lua"))()
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("Doors 🚪")
+
+local Section = Tab:NewSection("slemani broken is the best script")
+
+Section:NewButton("(Doors Orion libary) (1 script)", "ButtonInfo", function()loadstring(game:HttpGet(('https://pastebin.com/raw/9QPGnLx6'),true))()
+    print("Clicked")
+end)
+
+Section:NewButton("(doors FFJ Hub) (2 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/FFJ1/Roblox-Exploits/main/scripts/Loader.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(doors DarkCheatClient) (3 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/VaniaPerets/FolderGui-FolderHub/main/loader.lua", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("(doors apple hub doors) (4 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ImTienNguyenZ/AppleHubOnTop/main/Loader.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(doors) (5 script)", "ButtonInfo", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/mazzikasjjzjzj/Key/main/DOORS%20%20%5BNEW%5D'))()
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("Evade")
+
+local Section = Tab:NewSection("slemani broken is the best script")
+
+Section:NewButton("(Evade) (1 Script)", "ButtonInfo", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/9Strew/roblox/main/gamescripts/evade.lua'))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Evade Facts hub) (2 Script)", "ButtonInfo", function()loadstring(game:HttpGet('https://factshub.vercel.app'))()
+    print("Clicked")
+end)
+Section:NewButton("(Evade Dot hub) (3 Script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/CF-Trail/random/main/.x.vr.e.hi/loader.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Evade) (4 Script)", "ButtonInfo", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/9Strew/roblox/main/gamescripts/evade.lua'))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Evade Tbao hub) (5 Script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubEvade"))()
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("Blox fruits 💪🏻")
+
+local Section = Tab:NewSection("slemani broken is the best script")
+
+Section:NewButton("(Blox fruits Mtriet Hub) (1 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhtriettt/Free-Script/main/MTriet-Hub.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Blox fruits Apple hub) (2 scripts)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/ImTienNguyenZ/AppleHub/main/LoaderBF"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Blox fruits Redz Hub) (3 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/REDzHUB/BloxFruits/main/redz9999"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Blox fruits Chest farm) (4 script)", "ButtonInfo", function()--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+getgenv().Config = {
+    ["StartFarmChest"] = true,
+    ["Team"] = "Marines",
+    ["TimeReset"] = 5, -- No Edit
+    ["White Screen"] = false,
+    ["Stop The God's Chalice"] = false,
+    ["Stop The Fist of Darkness"] = false,
+    ["HopServer"] = {
+        ["Enable"] = true,
+        ["BypassServer"] = true,
+        ["Region"] = "Singapore"
+    },
+    [""] = "https://scriptblox.com"
+}
+repeat wait() until game:IsLoaded()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Minhtriettt/Free-Script/main/Chest-Farm.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Blox fruits Ymie Hub) (5 script)", "ButtonInfo", function()getgenv().Team = "Pirates"
+getgenv().id = "1226743840325501060"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NhiYeuAnh/YMIE-HUB/main/YMIEHUBV2.txt"))()
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("More games")
+
+local Section = Tab:NewSection("slemani broken is the best script")
+
+Section:NewButton("Click", "ButtonInfo", function()loadstring(game:HttpGet('https://pastefy.app/6V8LH70v/raw'))()
+    print("Clicked")
+end)
