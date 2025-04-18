@@ -1,0 +1,250 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+
+local Window = Library.CreateLib("slemnai broken 2", "BloodTheme")
+
+local Tab = Window:NewTab("Natural Disaster survival")
+
+local Section = Tab:NewSection("Kurdish Game script")
+
+Section:NewButton("Get Green Ballon", "ButtonInfo", function()loadstring(game:HttpGet("https://scriptblox.com/raw/Free-CLIENTSIDED-Balloon-Giver!_175"))()
+    print("Clicked")
+end)
+
+Section:NewButton("GUI 1 English", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxHackingProject/HPHub/main/HPHub.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("GUI 1 Kurdish", "ButtonInfo", function()loadstring(game:HttpGet("https://pastefy.app/AoA7sVv0/raw"))()
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("Dahood🔫")
+
+local Section = Tab:NewSection("slemani broken is the best script")
+
+Section:NewButton("(Dahood Swag mode) (1 script)", "ButtonInfo", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Dahood ZAPPED) (2 script)", "ButtonInfo", function()loadstring(game:HttpGet('https://raw.githubusercontent.com/grekkk/relases/main/zapped.lua'))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Dahood SPACEX) (3 script)", "ButtonInfo", function()loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Dahood PARADOX) (4 script)", "ButtonInfo", function()loadstring(game:HttpGet(('https://raw.githubusercontent.com/dmsknfejnf/robloxscript/main/README.md'),true))()
+    print("Clicked")
+end)
+
+Section:NewButton("(Dahood RAYX) (5 script)", "ButtonInfo", function()--[[
+	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
+]]
+local old = game:GetService("Players").LocalPlayer.IsInGroup
+
+hookfunction(game:GetService("Players").LocalPlayer.IsInGroup, newcclosure(function(self, id)
+if id == 12271076 then
+return true
+end
+return old(self, id)
+end))
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SpaceYes/Lua/Main/DaHood.Lua'))()
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("Teamwork puzzles")
+
+local Section = Tab:NewSection("2 player level")
+
+Section:NewButton("1 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-413.5162658691406, 29.49946403503418, 35.79993438720703)
+    print("Clicked")
+end)
+
+Section:NewButton("2 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-240.89402770996094, 17.499954223632812, -420.54412841796875)
+    print("Clicked")
+end)
+
+Section:NewButton("3 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-400.5011291503906, 3.494711399078369, -142.7711944580078)
+    print("Clicked")
+end)
+
+Section:NewButton("4 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-534.504150390625, 3.4991166591644287, -644.0790405273438)
+    print("Clicked")
+end)
+
+Section:NewButton("5 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-497.4977722167969, 3.495645523071289, 58.696624755859375)
+    print("Clicked")
+end)
+
+local Section = Tab:NewSection("3 players level")
+
+Section:NewButton("1 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(2.5394575595855713, 29.499284744262695, -366.50469970703125)
+    print("Clicked")
+end)
+
+Section:NewButton("2 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(88.39409637451172, 3.499882221221924, -594.9977416992188)
+    print("Clicked")
+end)
+
+Section:NewButton("3 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(319.72772216796875, -26.501646041870117, -506.0017395019531)
+    print("Clicked")
+end)
+
+Section:NewButton("4 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(201.50726318359375, 3.499602794647217, -422.6883850097656)
+    print("Clicked")
+end)
+
+local Section = Tab:NewSection("4 players level")
+
+Section:NewButton("1 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(192.49609375, 3.4999747276306152, 2.976766347885132)
+    print("Clicked")
+end)
+
+Section:NewButton("2 round", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(470.5003356933594, 73.49977111816406, -84.59333801269531)
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("Barry's prison run 🚓")
+
+local Section = Tab:NewSection("Teleports")
+
+Section:NewButton("tp to helicopter", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-3773.1396484375, 1069.1729736328125, -512.5537719726562)
+    print("Clicked")
+end)
+
+Section:NewButton("tp to car", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-1915.500732421875, 958.5999755859375, -682.3642578125)
+    print("Clicked")
+end)
+
+Section:NewButton("tp to gun", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-813.795166015625, 207.49334716796875, 50.02098846435547)
+    print("Clicked")
+end)
+
+Section:NewButton("tp to end", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(185.4536590576172, 103.283935546875, -54.76206970214844)
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("Cheese escape [horror] 🧀🐀")
+
+local Section = Tab:NewSection("Teleports")
+
+Section:NewButton("tp to chapters", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-4.333649158477783, 4.998024940490723, -60.748661041259766)
+    print("Clicked")
+end)
+
+Section:NewButton("tp to yellow door", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-73.05545806884766, 4.445226669311523, -146.27151489257812)
+    print("Clicked")
+end)
+
+Section:NewButton("tp to green door", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-204.30889892578125, 4.350101947784424, -196.25787353515625)
+    print("Clicked")
+end)
+
+Section:NewButton("tp to red door", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-200.278076171875, 4.551828384399414, -162.1474609375)
+    print("Clicked")
+end)
+
+Section:NewButton("tp to cheese door", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-292.8016357421875, 4.370800018310547, -126.17578125)
+    print("Clicked")
+end)
+
+Section:NewButton("Tp to stairs", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-274.1083679199219, 4.5103302001953125, -35.956390380859375)
+    print("Clicked")
+end)
+
+Section:NewButton("tp to blue door", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-273.23492431640625, 48.79584503173828, -182.6893768310547)
+    print("Clicked")
+end)
+
+Section:NewButton("tp to safe zone", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-86.93980407714844, 4.445878505706787, -120.19541931152344)
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("Escape running head 🗣️")
+
+local Section = Tab:NewSection("Teleports")
+
+Section:NewButton("win stage 1", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-708.3819580078125, 131.6300048828125, 8.279767036437988)
+    print("Clicked")
+end)
+
+Section:NewButton("win stage 2", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-1457.6300048828125, 28.385984420776367, -14.448867797851562)
+    print("Clicked")
+end)
+
+Section:NewButton("win stage 3", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-388.6153869628906, 15.100165367126465, -6.698164939880371)
+    print("Clicked")
+end)
+
+Section:NewButton("Win stage 4", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-894.947265625, 188.9218292236328, -24.465312957763672)
+    print("Clicked")
+end)
+
+Section:NewButton("win stage 5", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-1869.044921875, 46.45162582397461, -330.3706970214844)
+    print("Clicked")
+end)
+
+Section:NewButton("win stage 6", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-1407.8402099609375, 3.152632236480713, -53.56770706176758)
+    print("Clicked")
+end)
+
+Section:NewButton("win stage 7", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(1682.782958984375, 17.995948791503906, 374.8614196777344)
+    print("Clicked")
+end)
+
+Section:NewButton("win stage 8", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(43.178775787353516, 49.751827239990234, -1168.7484130859375)
+    print("Clicked")
+end)
+
+Section:NewButton("win stage 9", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(1843.33837890625, 43.751731872558594, -494.73809814453125)
+    print("Clicked")
+end)
+
+Section:NewButton("win stage 10", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-296.31549072265625, 430.7119445800781, -106.03129577636719)
+    print("Clicked")
+end)
+
+Section:NewButton("win stage 11", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-329.6122741699219, 107.93295288085938, 3666.03369140625)
+    print("Clicked")
+end)
+
+Section:NewButton("win stage 12", "ButtonInfo", function()local rootPart = game.Players.LocalPlayer.Character.HumanoidRootPart
+rootPart.CFrame = CFrame.new(-644.1175537109375, 135.7239227294922, -5543.51416015625)
+    print("Clicked")
+end)
