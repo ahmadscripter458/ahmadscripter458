@@ -13040,5 +13040,5 @@ task.spawn(function()
 	Credits:Destroy()
 	IntroBackground:Destroy()
 	minimizeHolder()
-	if IsOnMobile then notify("Unstable Device", "لە مۆبایلدا، slemani Yield لەوانەیە کێشە یان تایبەتمەندی هەبێت کە بە دروستی کارناکات.") end
+	if IsOnMobile then notify("Unstable Device", "فەقەت ئەحە و حەمە") end
 end)
