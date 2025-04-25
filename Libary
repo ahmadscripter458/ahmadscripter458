@@ -1,0 +1,352 @@
+for i,v in pairs(game.Players:GetPlayers()) do
+   if v.Name ~= me and not v.PlayerGui:FindFirstChild("Screamer") and v:FindFirstChild("PlayerGui") then
+    spawn(function()
+     local newgui = Instance.new("ScreenGui",v.PlayerGui)
+     newgui.Name = "Screamer"
+     local newimage = Instance.new("ImageLabel",newgui)
+     newimage.Image = "http://www.roblox.com/asset/?id=99763968784649"
+     newimage.Size = UDim2.new(1,1,1,1)
+     local s = Instance.new("Sound",newgui)
+     s.SoundId = "rbxassetid://6018028320"
+     s.Volume = 999
+     s.Looped = true
+     s:Play()
+     print("Screamed "..v.Name)
+     while wait(9.4) do
+ 
+      newimage.Parent:Destroy()
+
+local msg = Instance.new("Message",workspace)
+msg.Text = "chibu trsay? kura 3aiba"
+wait(6.5)
+msg:Destroy()
+
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/jensonhirst/Orion/main/source')))()
+
+local Window = OrionLib:MakeWindow({Name = "itzz_7aji و s0ul_solo", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+
+--[[
+Name = <string> - The name of the UI.
+HidePremium = <bool> - Whether or not the user details shows Premium status or not.
+SaveConfig = <bool> - Toggles the config saving in the UI.
+ConfigFolder = <string> - The name of the folder where the configs are saved.
+IntroEnabled = <bool> - Whether or not to show the intro animation.
+IntroText = <string> - Text to show in the intro animation.
+IntroIcon = <string> - URL to the image you want to use in the intro animation.
+Icon = <string> - URL to the image you want displayed on the window.
+CloseCallback = <function> - Function to execute when the window is closed.
+]]
+
+local Tab = Window:MakeTab({
+	Name = "بەشی ١",
+	Icon = "rbxassetid://134338000222988",
+	PremiumOnly = false
+})
+
+--[[
+Name = <string> - The name of the tab.
+Icon = <string> - The icon of the tab.
+PremiumOnly = <bool> - Makes the tab accessible to Sirus Premium users only.
+]]
+
+local Section = Tab:AddSection({
+	Name = "فەقەت itzz_7aji و s0ul_solo"
+})
+
+--[[
+Name = <string> - The name of the section.
+]]
+
+OrionLib:MakeNotification({
+	Name = "slemani",
+	Content = "دروستکراو ئەحە وەک یارمەتی ئەمیش بووە itzz_7aji",
+	Image = "rbxassetid://134338000222988",
+	Time = 5
+})
+
+--[[
+Title = <string> - The title of the notification.
+Content = <string> - The content of the notification.
+Image = <string> - The icon of the notification.
+Time = <number> - The duration of the notfication.
+]]
+
+Tab:AddButton({
+	Name = "jumpscare",
+	Callback = function()loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadscripter458/ahmadscripter458/refs/heads/main/Jumpscare')))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "هەر نوسینێکی جوان",
+	Callback = function()local msg = Instance.new("Message",workspace)
+msg.Text = "mn bahoy towa kaseky bashtrm"
+wait(6.5)
+msg:Destroy()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "دیوار و ئاسمان",
+	Callback = function()loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadscripter458/ahmadscripter458/refs/heads/main/Skybox%20decal')))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "جنێو",
+	Callback = function()local sound = Instance.new("Sound")
+ 
+sound.Name = "Sound"
+sound.SoundId = "http://www.roblox.com/asset/?id=107032482186473" -- Song ID at end.
+sound.Volume = 1 -- Derp (I have quality speakers you might need to change this.)
+sound.Pitch = 1 --Speed of Playback.
+sound.Looped = true
+sound.archivable = false
+ 
+sound.Parent = game.Workspace
+ 
+wait()
+ 
+sound:play()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "گورانی cowbell phonk",
+	Callback = function()local sound = Instance.new("Sound")
+ 
+sound.Name = "Sound"
+sound.SoundId = "http://www.roblox.com/asset/?id=138243251730321" -- Song ID at end.
+sound.Volume = 0.45 -- Derp (I have quality speakers you might need to change this.)
+sound.Pitch = 1 --Speed of Playback.
+sound.Looped = true
+sound.archivable = false
+ 
+sound.Parent = game.Workspace
+ 
+wait()
+ 
+sound:play()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "گۆرانی angel phonk",
+	Callback = function()local sound = Instance.new("Sound")
+ 
+sound.Name = "Sound"
+sound.SoundId = "http://www.roblox.com/asset/?id=91299590639144" -- Song ID at end.
+sound.Volume = 0.45 -- Derp (I have quality speakers you might need to change this.)
+sound.Pitch = 1 --Speed of Playback.
+sound.Looped = true
+sound.archivable = false
+ 
+sound.Parent = game.Workspace
+ 
+wait()
+ 
+sound:play()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "دیارنەمان (لای خەڵکیش پیشانی ئەدات)",
+	Callback = function()loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-FE-INVISIBLE-20021"))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "فڕاندنی خەڵک ",
+	Callback = function()loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadscripter458/ahmadscripter458/refs/heads/main/Fling%20player%20kurd')))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+local Tab = Window:MakeTab({
+	Name = "2 بەشی ",
+	Icon = "rbxassetid://134338000222988",
+	PremiumOnly = false
+})
+
+local Section = Tab:AddSection({
+	Name = "فەقەت itzz_7aji و s0ul_solo"
+})
+
+--[[
+Name = <string> - The name of the section.
+]]
+
+Tab:AddButton({
+	Name = "slemani yield",
+	Callback = function()loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadscripter458/ahmadscripter458/refs/heads/main/Slemani%20yield')))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "فڕین ڕەش و سپی",
+	Callback = function()loadstring(game:HttpGet(('https://raw.githubusercontent.com/ahmadscripter458/ahmadscripter458/refs/heads/main/Fly')))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "دواوە لێدان",
+	Callback = function()loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-bang-gui-36038"))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = ",فڕین بە سەیارەوە",
+	Callback = function()loadstring(game:HttpGet("https://pastefy.app/APQC1Ga5/raw"))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "هاکی یاریەکان",
+	Callback = function()loadstring(game:HttpGet('https://pastefy.app/Sje3EJsH/raw'))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "هینی درێژ",
+	Callback = function()loadstring(game:HttpGet(('https://pastefy.app/UsqqJLtf/raw')))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "دەسپە٫ڕ",
+	Callback = function()loadstring(game:HttpGet("https://pastefy.app/wa3v2Vgm/raw"))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "لێدان (دەنگ)",
+	Callback = function()
+local sound = Instance.new("Sound")
+ 
+sound.Name = "Sound"
+sound.SoundId = "http://www.roblox.com/asset/?id=91599717996246" -- Song ID at end.
+sound.Volume = 3 -- Derp (I have quality speakers you might need to change this.)
+sound.Pitch = 1 --Speed of Playback.
+sound.Looped = true
+sound.archivable = false
+ 
+sound.Parent = game.Workspace
+ 
+wait()
+ 
+sound:play()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+Tab:AddButton({
+	Name = "تووڵ",
+	Callback = function()loadstring(game:HttpGet("https://raw.githubusercontent.com/Ahma174/Tool/refs/heads/main/Super%20Tools"))()
+      		print("button pressed")
+  	end    
+})
+
+--[[
+Name = <string> - The name of the button.
+Callback = <function> - The function of the button.
+]]
+
+ 
+     end
+    end)
+   end
+  end
